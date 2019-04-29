@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Mohamed Mashaly",
+	"description":	{
+		"":	"creeat a 2D spline from an equation"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
